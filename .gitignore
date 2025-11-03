@@ -7,3 +7,5 @@ venv/
 Thumbs.db
 # build artifacts
 *.png
+# Allow example image for documentation
+!charts/bar_chart.png
